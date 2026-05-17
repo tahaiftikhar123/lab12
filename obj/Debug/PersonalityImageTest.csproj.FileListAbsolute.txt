@@ -1,0 +1,7 @@
+D:\PersonalityImageTest\bin\PersonalityImageTest.dll.config
+D:\PersonalityImageTest\bin\PersonalityImageTest.dll
+D:\PersonalityImageTest\bin\PersonalityImageTest.pdb
+D:\PersonalityImageTest\obj\Debug\PersonalityImageTest.csproj.AssemblyReference.cache
+D:\PersonalityImageTest\obj\Debug\PersonalityImageTest.csproj.CoreCompileInputs.cache
+D:\PersonalityImageTest\obj\Debug\PersonalityImageTest.dll
+D:\PersonalityImageTest\obj\Debug\PersonalityImageTest.pdb
