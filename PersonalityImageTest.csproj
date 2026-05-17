@@ -44,6 +44,12 @@
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
     <Content Include="Content\site.css" />
+    <Content Include="Content\Images\sunset-road.svg" />
+    <Content Include="Content\Images\city-lights.svg" />
+    <Content Include="Content\Images\green-forest.svg" />
+    <Content Include="Content\Images\mountain-peak.svg" />
+    <Content Include="Content\Images\ocean-wave.svg" />
+    <Content Include="Content\Images\star-space.svg" />
     <Content Include="Scripts\personality.js" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Starry space</title>
+  <defs>
+    <radialGradient id="space" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#42317a"/>
+      <stop offset="1" stop-color="#101827"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#space)"/>
+  <g fill="#ffffff">
+    <circle cx="82" cy="58" r="3"/><circle cx="180" cy="120" r="2"/><circle cx="310" cy="64" r="3"/>
+    <circle cx="516" cy="92" r="2"/><circle cx="575" cy="186" r="3"/><circle cx="425" cy="250" r="2"/>
+    <circle cx="120" cy="270" r="2"/><circle cx="250" cy="220" r="3"/>
+  </g>
+  <circle cx="330" cy="178" r="58" fill="#f4b64f"/>
+  <ellipse cx="330" cy="178" rx="112" ry="26" fill="none" stroke="#e9d7ff" stroke-width="10" transform="rotate(-14 330 178)"/>
+  <circle cx="330" cy="178" r="39" fill="#d88a3d"/>
+</svg>

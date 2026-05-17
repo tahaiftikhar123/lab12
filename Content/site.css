@@ -50,7 +50,7 @@ h1 {
 
 .options {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 16px;
     margin-bottom: 22px;
 }
@@ -75,36 +75,13 @@ h1 {
     box-shadow: 0 14px 28px rgba(23, 32, 51, .12);
 }
 
-.image-scene {
+.personality-image {
     display: block;
+    width: 100%;
     height: 170px;
     border-radius: 8px;
-    overflow: hidden;
-}
-
-.sunset {
-    background:
-        radial-gradient(circle at 68% 32%, #ffd66e 0 14%, transparent 15%),
-        linear-gradient(165deg, #f17b45 0 45%, #21445d 46% 100%);
-}
-
-.city {
-    background:
-        linear-gradient(to top, #172033 0 45%, transparent 45%),
-        repeating-linear-gradient(90deg, #f5c542 0 6px, transparent 6px 18px),
-        linear-gradient(160deg, #1b3f68, #7aa9c8);
-}
-
-.forest {
-    background:
-        repeating-linear-gradient(120deg, #1f6f4a 0 18px, #2f8b5f 18px 36px),
-        linear-gradient(160deg, #bfe7d0, #0f5132);
-}
-
-.mountain {
-    background:
-        linear-gradient(135deg, transparent 0 48%, #e8edf3 49% 56%, transparent 57%),
-        linear-gradient(150deg, #45627f 0 50%, #1c2f46 51% 100%);
+    object-fit: cover;
+    background: #edf2f7;
 }
 
 .card-title {
