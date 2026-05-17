@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Green forest</title>
+  <rect width="640" height="360" fill="#bfe7d0"/>
+  <path d="M0 260 C120 205 220 280 330 235 C450 185 530 230 640 188 L640 360 L0 360 Z" fill="#2b7a4b"/>
+  <g>
+    <path d="M105 250 L165 90 L225 250 Z" fill="#195c3b"/>
+    <path d="M250 260 L320 70 L390 260 Z" fill="#1f7048"/>
+    <path d="M420 260 L485 100 L550 260 Z" fill="#145336"/>
+    <rect x="155" y="235" width="20" height="80" fill="#67472d"/>
+    <rect x="310" y="240" width="20" height="80" fill="#67472d"/>
+    <rect x="476" y="238" width="20" height="80" fill="#67472d"/>
+  </g>
+  <path d="M0 315 C120 285 240 340 360 300 C470 265 560 300 640 280 L640 360 L0 360 Z" fill="#0f5132"/>
+</svg>

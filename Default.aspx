@@ -22,27 +22,39 @@
 
             <section class="options" aria-label="Image personality options">
                 <button class="image-card" type="button" data-type="creative">
-                    <span class="image-scene sunset"></span>
+                    <img class="personality-image" src="Content/Images/sunset-road.svg" alt="Sunset road" />
                     <span class="card-title">Sunset Road</span>
                     <span class="card-text">Warm colors, open sky, and a calm path forward.</span>
                 </button>
 
                 <button class="image-card" type="button" data-type="logical">
-                    <span class="image-scene city"></span>
+                    <img class="personality-image" src="Content/Images/city-lights.svg" alt="City lights" />
                     <span class="card-title">City Lights</span>
                     <span class="card-text">Structure, movement, planning, and ambition.</span>
                 </button>
 
                 <button class="image-card" type="button" data-type="calm">
-                    <span class="image-scene forest"></span>
+                    <img class="personality-image" src="Content/Images/green-forest.svg" alt="Green forest" />
                     <span class="card-title">Green Forest</span>
                     <span class="card-text">Peace, patience, balance, and deep thinking.</span>
                 </button>
 
                 <button class="image-card" type="button" data-type="bold">
-                    <span class="image-scene mountain"></span>
+                    <img class="personality-image" src="Content/Images/mountain-peak.svg" alt="Mountain peak" />
                     <span class="card-title">Mountain Peak</span>
                     <span class="card-text">Challenge, confidence, focus, and strong goals.</span>
+                </button>
+
+                <button class="image-card" type="button" data-type="free">
+                    <img class="personality-image" src="Content/Images/ocean-wave.svg" alt="Ocean wave" />
+                    <span class="card-title">Ocean Wave</span>
+                    <span class="card-text">Freedom, emotion, curiosity, and flexible thinking.</span>
+                </button>
+
+                <button class="image-card" type="button" data-type="dreamer">
+                    <img class="personality-image" src="Content/Images/star-space.svg" alt="Starry space" />
+                    <span class="card-title">Star Space</span>
+                    <span class="card-text">Big dreams, imagination, discovery, and future ideas.</span>
                 </button>
             </section>
 

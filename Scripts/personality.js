@@ -14,6 +14,14 @@ const results = {
     bold: {
         title: "Bold Achiever",
         text: "You are motivated by challenge. You enjoy difficult goals, confidence, and pushing yourself forward."
+    },
+    free: {
+        title: "Free Spirit",
+        text: "You like movement, variety, and fresh experiences. You adapt quickly and enjoy exploring new possibilities."
+    },
+    dreamer: {
+        title: "Visionary Dreamer",
+        text: "You think beyond the present. You are curious, imaginative, and inspired by future-focused ideas."
     }
 };
 

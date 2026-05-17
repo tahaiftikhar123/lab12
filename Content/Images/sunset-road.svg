@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Sunset road</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8a4c"/>
+      <stop offset="0.55" stop-color="#ffd36e"/>
+      <stop offset="1" stop-color="#4b6b8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#sky)"/>
+  <circle cx="486" cy="88" r="42" fill="#fff1a6"/>
+  <path d="M0 220 C130 170 220 245 340 198 C465 150 540 180 640 140 L640 360 L0 360 Z" fill="#254c5e"/>
+  <path d="M250 360 L375 360 L330 195 L296 195 Z" fill="#1f2937"/>
+  <path d="M309 360 L322 360 L316 210 Z" fill="#f8d36b"/>
+</svg>
